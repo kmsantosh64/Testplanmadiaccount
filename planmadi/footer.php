@@ -54,7 +54,7 @@
                             </div>
                            
                             <p class="freepik-copyrights">Images Designed by <a href="https://www.freepik.com/" target="_blank">Freepik</a></p>
-                            <p id="copyright-version">v1.0.21(2024-08-22)</p>
+                            <p id="copyright-version">v1.0.22(2024-08-22)</p>
                             </div>
                             </div>
                             </section>
